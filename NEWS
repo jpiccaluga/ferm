@@ -7,6 +7,10 @@
     Auke Kok <sofar@foo-projects.org>
 
 
+nnn - 16 Jul 2013
+  - support netfilter modules:
+    * CHECKSUM
+
 v2.2 - 1 Jul 2013
   - support netfilter modules:
     * CT
